@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>517136538140-2pk281etke5ov4odjbi062jn2ah7e1ql.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.517136538140-2pk281etke5ov4odjbi062jn2ah7e1ql</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>517136538140-qqkq2gi15sug7gid27tvq65nd0nnlj37.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJ_5P7HjRCK5V72TaSvfX0CYXufGRCUio</string>
+	<key>GCM_SENDER_ID</key>
+	<string>517136538140</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>fyp--vetconnect</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fyp--vetconnect.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:517136538140:ios:543b7a5dc821f35cf41dd9</string>
+</dict>
+</plist>
