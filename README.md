@@ -12,8 +12,13 @@ https://www.figma.com/proto/ld7XWcpaMLqK4mrkb30A8N/BEE-PROTOTYPE?node-id=1-3661&
 2. Set up Flutter. 
  - Code of How to set up an Emulator For VSCode? (https://medium.com/@bosctechlabs/code-of-how-to-set-up-an-emulator-for-vscode-updated-ad4365c0559b)
  - Flutter Installation Setup with Android Studio: (https://medium.com/codechai/flutter-installation-setup-with-android-studio-326dea65f609)
+   
 3. Create a flutter project.
   - https://docs.flutter.dev/reference/create-new-app
+    
 4. Place/replace the folders inside flutter project folders.
-5. Run in emulator/physical device.
+
+5. run the file 'pubspec.yaml'
+   
+6. Run in emulator/physical device.
  - How to run your Flutter App on Physical Android Device: https://jbtronic.medium.com/how-to-run-your-flutter-app-on-physical-android-device-248e7fb91404
