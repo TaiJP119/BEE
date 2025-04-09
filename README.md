@@ -1,4 +1,4 @@
-# BEE 
+# BEE (Best Education Environment)
  GDGoC KitaHack 2025 - Team ANT - BEE App
 ![WhatsApp Image 2025-03-22 at 22 44 22_e0c7c3d1](https://github.com/user-attachments/assets/ec0e7a0e-f2e5-433c-899d-a5ec3b997bf0)
 
@@ -23,3 +23,7 @@ https://www.figma.com/proto/ld7XWcpaMLqK4mrkb30A8N/BEE-PROTOTYPE?node-id=1-3661&
    
 6. Run in emulator/physical device.
  - How to run your Flutter App on Physical Android Device: https://jbtronic.medium.com/how-to-run-your-flutter-app-on-physical-android-device-248e7fb91404
+
+# BEE - Team ANT
+![image](https://github.com/user-attachments/assets/eeb4103c-a88d-4fe6-9caa-1fe4c2b6299b)
+
